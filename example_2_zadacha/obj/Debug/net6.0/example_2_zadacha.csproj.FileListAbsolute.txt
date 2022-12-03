@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\obj\Debug\net6.0\example_2_zadacha.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\obj\Debug\net6.0\example_2_zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\obj\Debug\net6.0\example_2_zadacha.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\obj\Debug\net6.0\example_2_zadacha.AssemblyInfo.cs
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\obj\Debug\net6.0\example_2_zadacha.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\bin\Debug\net6.0\example_2_zadacha.exe
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\bin\Debug\net6.0\example_2_zadacha.deps.json
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\bin\Debug\net6.0\example_2_zadacha.runtimeconfig.json
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\bin\Debug\net6.0\example_2_zadacha.dll
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\bin\Debug\net6.0\example_2_zadacha.pdb
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\obj\Debug\net6.0\example_2_zadacha.dll
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\obj\Debug\net6.0\refint\example_2_zadacha.dll
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\obj\Debug\net6.0\example_2_zadacha.pdb
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\obj\Debug\net6.0\example_2_zadacha.genruntimeconfig.cache
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_2_zadacha\obj\Debug\net6.0\ref\example_2_zadacha.dll
