@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\obj\Debug\net6.0\example_1_Methods.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\obj\Debug\net6.0\example_1_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\obj\Debug\net6.0\example_1_Methods.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\obj\Debug\net6.0\example_1_Methods.AssemblyInfo.cs
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\obj\Debug\net6.0\example_1_Methods.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\bin\Debug\net6.0\example_1_Methods.exe
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\bin\Debug\net6.0\example_1_Methods.deps.json
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\bin\Debug\net6.0\example_1_Methods.runtimeconfig.json
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\bin\Debug\net6.0\example_1_Methods.dll
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\bin\Debug\net6.0\example_1_Methods.pdb
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\obj\Debug\net6.0\example_1_Methods.dll
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\obj\Debug\net6.0\refint\example_1_Methods.dll
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\obj\Debug\net6.0\example_1_Methods.pdb
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\obj\Debug\net6.0\example_1_Methods.genruntimeconfig.cache
+C:\Users\MSI\Desktop\C#\lekcii\Lekciya_3\example_1_Methods\obj\Debug\net6.0\ref\example_1_Methods.dll
